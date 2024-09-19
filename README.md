@@ -18,7 +18,7 @@ Alternatively you can install the dependecies using the requirements.txt file:
 pip install -r requirements.txt
 ```
 
-Additionally, you'll need the YOLOv9 pretrained model weights (`yolov9t.pt`), which can be downloaded from the [Ultralytics YOLO repository](https://github.com/ultralytics/yolov5/releaseshttps://docs.ultralytics.com/models/yolov9/).
+Additionally, you'll need the YOLOv9 pretrained model weights (`yolov9t.pt`), which can be downloaded from the [Ultralytics YOLO repository](https://docs.ultralytics.com/models/yolov9/).
 
 ## Code Explanation
 
