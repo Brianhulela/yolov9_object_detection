@@ -36,7 +36,7 @@ annotated_frame = bounding_box_annotator.annotate(
     detections=detections
 )
 
-sv.plot_image(annotated_frame)
-
 # Save the annotated image
-cv2.imwrite("bounding_boxes.jpg", image)
+cv2.imwrite("bounding_boxes.jpg", annotated_frame)
+
+sv.plot_image(annotated_frame)
